@@ -1,0 +1,4 @@
+aiogramm==3.0
+bs4==4.12.2
+lxml==4.9.2
+requests==2.31.0
